@@ -1,0 +1,22 @@
+{
+  "name": "es2015",
+  "version": "1.0.0",
+  "description": "Example code of CodeSchool ES2015",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escray/ES2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escray/ES2015/issues"
+  },
+  "homepage": "https://github.com/escray/ES2015#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
